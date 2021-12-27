@@ -13,3 +13,5 @@ execute project:
 execute again stripe cli but in mode listen: ./stripe listen --forward-to http://127.0.0.1:8000/stripe/webhook/
 
 All event in this account , send in this webhook !
+
+## En este proyecto quite celery. Pero en el mundo real, tiene que estar.
