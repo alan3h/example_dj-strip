@@ -14,4 +14,5 @@ execute again stripe cli but in mode listen: ./stripe listen --forward-to http:/
 
 All event in this account , send in this webhook !
 
-## En este proyecto quite celery. Pero en el mundo real, tiene que estar.
+## in this project remove celery. But in the real world, it has to be.
+
